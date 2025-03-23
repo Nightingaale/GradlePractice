@@ -1,6 +1,6 @@
 ## Technology
 - **Java(17)**
-- **Gradle
+- **Gradle**
 
 ## Information for the repository:
 1. **Clone the repository**
