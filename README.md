@@ -5,7 +5,7 @@
 ## Information for the repository:
 1. **Clone the repository**
 ``` bash  
-git clone https://github.com/Nightingaale/SQLHub.git
+git clone https://github.com/Nightingaale/GradlePractice.git
 ```
 
 2. **Build the project**
